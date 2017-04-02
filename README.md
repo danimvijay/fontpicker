@@ -11,5 +11,5 @@ Picks the font names of text in web.
 3. Click on the text in browser to display font name on console
 
 ## Links
-Project Home Page : http://www.utmostdev.com/index.php/2017/03/01/font-picker-console-edition/
-Auther : Dani Vijay, http://danivijay.com
+1. Project Home Page : http://www.utmostdev.com/index.php/2017/03/01/font-picker-console-edition/
+2. Auther : Dani Vijay, http://danivijay.com
