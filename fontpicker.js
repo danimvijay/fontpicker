@@ -1,7 +1,7 @@
 /*
 Auther : Dani Vijay
 Auther Website : http://danivijay.com/
-Website : http://www.utmostdev.com/index.php/2017/03/01/font-picker-console-edition/
+Website : https://danivijay.github.io/fontpicker/
 */
 
 javascript: var d = document,
